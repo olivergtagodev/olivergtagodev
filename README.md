@@ -2,7 +2,7 @@
 
 ## 👋🏼 ABOUT ME
 
-I am an enthusiastic Python engineering aspirant, driven by a deep passion for problem-solving through code. My journey into the world of programming began with Python, and I've since embraced it as my preferred language. Exploring Python's versatility, from web development with Flask to data analysis with Pandas, has been a thrilling adventure. I thrive on the joy of creating efficient and elegant solutions, and I eagerly dive into new challenges that come my way. With each line of code, I'm not just writing; I'm crafting solutions that make a real impact. I relish the constant learning and innovation that Python engineering offers and look forward to contributing my skills to meaningful projects in the Python community.
+I am an enthusiastic Python engineering aspirant, driven by a deep passion for problem-solving through code. My journey into the world of programming began with Python, and I've since embraced it as my preferred language. Exploring Python's versatility, from web development with Django to data analysis with Pandas, has been a thrilling adventure. I thrive on the joy of creating efficient and elegant solutions, and I eagerly dive into new challenges that come my way. With each line of code, I'm not just writing; I'm crafting solutions that make a real impact. I relish the constant learning and innovation that Python engineering offers and look forward to contributing my skills to meaningful projects in the Python community.
 
 For future collaborations and projects, you can reach me with my email **olivergtagodev@gmail.com** or Follow me in my socials media profiles below:
 
