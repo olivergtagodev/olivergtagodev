@@ -33,7 +33,7 @@ For future collaborations and projects, you can reach me with my email **oliverg
     - Tkinter
     - Kivy
     - BeeWare
-- **Database**
+- **Database Management Systems/RDBMS**
     - SQL/MySQL
     - SQLite
     - MariaDB
