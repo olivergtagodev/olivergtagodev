@@ -1,4 +1,4 @@
-![https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=7941fdc6yci8ulmr4qc2zyilv53ek6udbuc8xa8ijebcwfvc&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=7941fdc6yci8ulmr4qc2zyilv53ek6udbuc8xa8ijebcwfvc&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=7941fdc6yci8ulmr4qc2zyilv53ek6udbuc8xa8ijebcwfvc&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width: 1010px; height: 300px;">
 
 ## 👋🏼 ABOUT ME
 
