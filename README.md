@@ -85,7 +85,7 @@ For future collaborations and projects, you can reach me with my email **oliverg
 - Android Programming in Python (GUI)
 - Web Development
 - Computer Networking
-- System Administration (Linux)
+- System Administration (Ubuntu Linux)
 - Customizations, Configurations, and Troubleshooting Technologies
 - Media & Information Literacy (Tech updates)
 - Multimedia applications and services
@@ -93,6 +93,6 @@ For future collaborations and projects, you can reach me with my email **oliverg
 
 ### 🗣️ LANGUAGES
 
-- Filipino (Default)
+- Filipino
 - Cebuano (Dialect)
-- American English (All around)
+- American English
