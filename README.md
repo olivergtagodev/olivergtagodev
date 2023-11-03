@@ -90,9 +90,3 @@ For future collaborations and projects, you can reach me with my email **oliverg
 - Media & Information Literacy (Tech updates)
 - Multimedia applications and services
 - Tips & Tricks (Blogging)
-
-### 🗣️ LANGUAGES
-
-- Filipino
-- Cebuano (Dialect)
-- American English
