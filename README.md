@@ -1,92 +1,12 @@
-<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=7941fdc6yci8ulmr4qc2zyilv53ek6udbuc8xa8ijebcwfvc&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width:1000px; height:325px;">
+<img src="https://media3.giphy.com/media/1C8bHHJturSx2/giphy.gif?cid=ecf05e4757ruacxd2dj5yaplzh4mj9sh5tknied2rtxoh14z&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width:1010px; height:350px;">
 
 ## 👋🏼 ABOUT ME
 
 I am an enthusiastic Python engineering aspirant, driven by a deep passion for problem-solving through code. My journey into the world of programming began with Python, and I've since embraced it as my preferred language. Exploring Python's versatility, from web development with Django to data analysis with Pandas, has been a thrilling adventure. I thrive on the joy of creating efficient and elegant solutions, and I eagerly dive into new challenges that come my way. With each line of code, I'm not just writing; I'm crafting solutions that make a real impact. I relish the constant learning and innovation that Python engineering offers and look forward to contributing my skills to meaningful projects in the Python community.
 
-For future collaborations and projects, you can reach me with my email **olivergtagodev@gmail.com** or Follow me in my socials media profiles below:
 
-- **[Facebook](http://www.facebook.com/olivergtagodev)**
-- **[Instagram](http://www.instagram.com/olivergtagodev)**
-- **[X](https://twitter.com/olivergtagodev)** (twitter)
-- **[Tiktok](https://www.tiktok.com/@olivergtagodev?_t=8gto2NHKMuA&_r=1)**
-- **[LinkedIn](http://www.linkedin.com/in/olivergtagodev)**
-- **[Github](https://github.com/olivergtagodev)**
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/olivergtagodev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/olivergtagodev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/olivergtagodev) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@olivergtagodev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/olivergtagodev) 
 
-## 👨🏽‍💻 TECH STACKS
-
-- **Frontend Programming**
-    - HTML5
-    - CSS3
-    - JavaScript
-    - TypeScript
-    - Next.JS
-    - React.JS
-- **Backend Programming**
-    - Python
-    - Node.JS
-    - PHP
-    - Django
-    - Flask
-    - FastAPI
-- **Python** **GUI**
-    - Tkinter
-    - Kivy
-    - BeeWare
-- **Database Management Systems/RDBMS**
-    - SQL/MySQL
-    - SQLite
-    - MariaDB
-    - NoSQL
-    - MongoDB
-- **Data Analytics**
-    - Pandas
-    - NumPy
-    - Matplotlib
-    - **Machine learning**
-        - Scikit-learn
-        - Tensorflow
-- **Servers, Hosting, Cloud, & Deployment**
-    - Apache2
-    - Amazon Web Server
-    - Google Cloud
-    - Hostinger
-    - Netlify
-    - Heroku
-    - Nginx
-    - Ngrok
-- **Tools**
-    - Visual Studio Code
-    - PyCharm Community Edition
-    - PyDroid 3
-    - WAMP Server
-    - XAMPP
-    - LAMP Stack
-    - Figma
-    - FlatIcons
-    - Canva
-    - Microsoft Word
-    - Microsoft PowerPoint
-    - Microsoft Excel
-    - Microsoft Access
-    - Microsoft SQL Server
-    - Adobe Lightroom
-    - Jupyter Notebook
-    - Notion
-    - OpenAI
-    - Anthropic (Claude AI)
-    - Cisco Packet Tracer
-    - Linux
-
-## 💡 TOPICS I’M INTO
-
-- Computer Programming Fundamentals
-- Python Fundamentals for Data Science (Data Analytics)
-- Android Programming in Python (GUI)
-- Web Development
-- Computer Networking
-- System Administration (Ubuntu Linux)
-- Customizations, Configurations, and Troubleshooting Technologies
-- Media & Information Literacy (Tech updates)
-- Multimedia applications and services
-- Tips & Tricks (Blogging)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
