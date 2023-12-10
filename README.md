@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/1C8bHHJturSx2/giphy.gif?cid=ecf05e4757ruacxd2dj5yaplzh4mj9sh5tknied2rtxoh14z&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width:1010px; height:350px;">
+<img src="https://media3.giphy.com/media/1C8bHHJturSx2/giphy.gif?cid=ecf05e4757ruacxd2dj5yaplzh4mj9sh5tknied2rtxoh14z&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width:1000px; height:350px;">
 
 ## 👋🏼 ABOUT ME
 
