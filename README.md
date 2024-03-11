@@ -9,9 +9,9 @@ Hi 👋🏽, I'm Oliver Tagod. An Information Technology Enthusiast who loves to
 - **GitHub:** [github.com/olivergtagodev](https://github.com/olivergtagodev)
 
 ## Technical Skills
-- **Software Development:** Python, MySQL, HTML, CSS, JavaScript, Git & GitHub, XAMPP.
-- **Frameworks:** Tkinter, Kivy, TailwindCSS, Django.
-- **Data Analytics:** Pandas, NumPy, Matplotlib, Scikit-Learn, Microsoft Excel, Power BI.
+- **Software Development:** Python, MySQL, HTML, CSS, JavaScript, Git & GitHub, and XAMPP.
+- **Frameworks:** Tkinter, Kivy, TailwindCSS, and Django.
+- **Data Analytics:** Pandas, NumPy, Matplotlib, Scikit-Learn, Microsoft Excel, and Power BI.
 - **Computer Systems:** Windows Server and Client, Ubuntu Server and Desktop, Networking, Virtual Machines.
-- **Graphics:** Canva, GIMP, Adobe Lightroom.
-- **Others:** Data Structures and Algorithms, Maintenance and Troubleshooting of devices, Project Management, Database Management, Quality Assurance.
+- **Graphics:** Canva, GIMP, and Adobe Lightroom.
+- **Others:** Data Structures and Algorithms, Maintenance and Troubleshooting of devices, Project Management, Database Management, and Quality Assurance.
