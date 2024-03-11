@@ -1,8 +1,8 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" width="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBwcXM4eDhpeXc0YzV2YTRma2s1dW4zM3BuY2wxeWQ4emxsd2xrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
-</div>
+  <img height="200" width="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBwcXM4eDhpeXc0YzV2YTRma2s1dW4zM3BuY2wxeWQ4emxsd2xrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  /> <br><br>
+  <img src="https://profile-counter.glitch.me/olivergtagodev/count.svg?"/>
 
 ###
 
@@ -92,15 +92,3 @@
   <img src="https://streak-stats.demolab.com?user=olivergtagodev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olivergtagodev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=darcula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/olivergtagodev/olivergtagodev/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/olivergtagodev/count.svg?"  />
-</div>
-
-###
