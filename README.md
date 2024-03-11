@@ -6,7 +6,7 @@
 </div>
 
 <h1>Professional Summary</h1>
-<p align="left">Greetings, I'm Oliver Tagod, an ardent Information Technology enthusiast deeply passionate about leveraging technology to enhance efficiency and simplify daily tasks. With a penchant for coding and analytical pursuits, I strive to deliver solutions that optimize life's complexities. Renowned for my adaptability, organizational skills, and unwavering dedication, I humbly navigate the realms of technology with a steadfast commitment to continual growth and contribution.</p>
+<p align="left">Greetings, I'm Oliver Tagod, an ardent Information Technology enthusiast deeply passionate about leveraging technology to enhance efficiency and simplify daily tasks. With a penchant for coding and analytical pursuits, I strive to deliver solutions that optimize life's complexities. Renowned for my adaptability, organizational skills, and unwavering dedication, I humbly navigate the realms of technology with a steadfast commitment to continual growth and contribution in the field of <b>Software Development</b>, <b>Data Analytics</b>, and <b>DevOps</b>.</p>
 
 ### Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/olivergtagodev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/olivergtagodev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/olivergtagodev) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@olivergtagodev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/olivergtagodev) 
