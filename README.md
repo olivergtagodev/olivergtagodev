@@ -3,8 +3,7 @@
 <div align="center">
   <img height="200" width="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBwcXM4eDhpeXc0YzV2YTRma2s1dW4zM3BuY2wxeWQ4emxsd2xrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  /> <br><br>
   <img src="https://profile-counter.glitch.me/olivergtagodev/count.svg?"/>
-
-###
+</div>
 
 <br clear="both">
 <h1>Professional Summary</h1>
