@@ -1,5 +1,5 @@
 ## Professional Summary
-Hi 👋🏽, I'm Oliver Tagod. An Information Technology Enthusiast who loves to code, analyze, and produce outputs that promote ease and productivity in life. I'm known as an ambivert, passionate, organized, and adaptive type of person.
+Greetings, I'm Oliver Tagod, an ardent Information Technology enthusiast deeply passionate about leveraging technology to enhance efficiency and simplify daily tasks. With a penchant for coding and analytical pursuits, I strive to deliver solutions that optimize life's complexities. Renowned for my adaptability, organizational skills, and unwavering dedication, I humbly navigate the realms of technology with a steadfast commitment to continual growth and contribution.
 
 ## Contact and Socials
 - **Email:** olivergtagodev@gmail.com
